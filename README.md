@@ -60,7 +60,7 @@ The main script in `PartA.py` is configured with the following parameters:
 
 - `p = 4`: A parameter based on the author's student ID, influencing the number of bits per symbol.
 
-- `M = 2` ** (p + 3): The number of amplitude levels.
+- `M = 2 ** (p + 3)`: The number of amplitude levels.
 
 - `b = 1`: The scaling factor for the amplitude levels.
 
@@ -73,4 +73,5 @@ These parameters can be adjusted directly within the script to explore different
 - **Email**: it2022134@hua.gr
 
 ### License
+
 MIT License
